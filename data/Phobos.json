@@ -1,24 +1,12 @@
 {
     "id": 57436521,
-    "name": "Macabre",
-    "author": "ZephiroX",
-    "creators": ["Reqiem", "ZephiroX"],
-    "verifier": "MrSpaghetti",
-    "verification": "https://www.youtube.com/watch?v=npAIuRwLMI8&ab_channel=nabolol",
-    "percentToQualify": 60,
-    "password": "Not Copyable",
+    "name": "Phobos",
+    "author": "KrmaL",
+    "creators": ["Andromeda", "Jo2000", "Zeostar", "WOOGI1411", "KobaZz", "Tandrii", "Technet", "GMTSean", "Jobet", "Nitro451", "iBlade", "Palery", "DreamEater", "Tygrysek", "Iqrar99", "Skitten", "Kubs0n", "Caernarvon725", "Razur", "Riqirez"],
+    "verifier": "KrmaL",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
     "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        },
-         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
