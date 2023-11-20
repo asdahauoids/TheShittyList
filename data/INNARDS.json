@@ -1,24 +1,15 @@
 {
-    "id": 57436521,
+    "id": 54588072,
     "name": "INNARDS",
     "author": "Kaito",
     "creators": [],
     "verifier": "Cinci",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
+    "verification": "https://youtu.be/jpHTDyfnnmk",
+    "percentToQualify": "60",
     "password": "46290",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
+       
         }
     ]
 }
