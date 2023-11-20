@@ -1,24 +1,18 @@
 {
-    "id": 57436521,
+    "id": 74986585,
     "name": "Betelgeuse",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "46290",
+    "author": "Zanna83",
+    "creators": [],
+    "verifier": "MrSpaghetti",
+    "verification": "https://www.youtube.com/watch?v=rtDhGcYbXbI&ab_channel=nabolol",
+    "percentToQualify": "55",
+    "password": "Free To Copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "gotsmile",
+            "link": "https://youtu.be/Jof3iSAlN2M?si=_V7r0dqgRZhB8PsT",
             "percent": 100,
             "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
         }
     ]
 }
