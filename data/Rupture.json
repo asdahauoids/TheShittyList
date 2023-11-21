@@ -8,5 +8,23 @@
     "percentToQualify": "66",
     "password": "3311",
     "records": [
+        {
+            "user": "Ankyn",
+            "link": "https://www.youtube.com/watch?v=5KZi8ZnFxY0&ab_channel=Ankyn",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "gotsmile",
+            "link": "https://www.youtube.com/watch?v=A6t2UVagwNY&ab_channel=gotsmile",
+            "percent": 66,
+            "hz": 360
+        },
+        {
+            "user": "VoVocado",
+            "link": "https:/www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 66,
+            "hz": 144
+        }
     ]
 } 
