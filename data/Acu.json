@@ -8,5 +8,17 @@
     "percentToQualify": "63",
     "password": "Free To Copy",
     "records": [
+    {
+            "user": "VoVocado",
+            "link": "https://www.youtube.com/watch?v=Zm7lN2LQp0w&t=84s&ab_channel=VoVocado",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "gotsmile",
+            "link": "https://www.youtube.com/watch?v=60EgsRUuVRM&ab_channel=gotsmile",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 } 
