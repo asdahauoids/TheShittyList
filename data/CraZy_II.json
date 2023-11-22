@@ -1,0 +1,18 @@
+{
+    "id": 47620786,
+    "name": "CraZy II",
+    "author": "DavJT",
+    "creators": ["DavJT", "N R G"],
+    "verifier": "Mulpan",
+    "verification": 
+"https://www.youtube.com/watch?v=OWgS8FfDiEc&ab_channel=NotAimBot",
+    "password": "170802",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https:/www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
