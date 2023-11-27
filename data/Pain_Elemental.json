@@ -1,0 +1,18 @@
+{
+    "id": 67461519,
+    "name": "Pain Elemental",
+    "author": "loogiah",
+    "creators": ["loogiah", "Pennutoh"],
+    "verifier": "aquea",
+    "verification": "https://www.youtube.com/watch?v=QKDAcidCCWo",
+    "percentToQualify": 64,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "gotsmile",
+            "link": "https:/www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
