@@ -8,5 +8,11 @@
     "percentToQualify": "64",
     "password": "455880",
     "records": [
+        {
+            "user": "gotsmile",
+            "link": "https:/www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
