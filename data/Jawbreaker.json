@@ -1,0 +1,31 @@
+{
+    "id": 6939821,
+    "name": "Jawbreaker",
+    "author": "ZenthicAlpha",
+    "creators": [],
+    "verifier": "-",
+    "verification": "https://youtu.be/G3ct4Oexl5I",
+    "percentToQualify": "64",
+    "password": "696969",
+    "records": [
+        {
+            "user": "VoVocado",
+            "link": "https:/www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "gotsmile",
+            "link": "https:/www.youtube/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+
+        },
+        {
+            "user": "gotsmile",
+            "link": "https:/www.youtube/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360        
+        }
+    ]
+} 
