@@ -8,5 +8,17 @@
     "percentToQualify": "51",
     "password": "701013",
     "records": [
+        {
+            "user": "gotsmile",
+            "link": "https:/www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Anykn",
+            "link": "https:/www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 360,
+            "hz": 100
+        }
     ]
-}
+} 
