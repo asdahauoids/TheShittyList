@@ -1,0 +1,18 @@
+{
+    "id": 35418014,
+    "name": "The Behemoth",
+    "author": "JacobROso",
+    "creators": [],
+    "verifier": "JacobROso",
+    "verification": "https://youtu.be/Ss3nk_mcYqo",
+    "percentToQualify": "55",
+    "password": "796523",
+    "records": [
+        {
+            "user": "gotsmile",
+            "link": "https:/www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
