@@ -1,4 +1,24 @@
-gotsmile 67
-ankyn 100
-only serponge
-- verifier
+{
+    "id": 26727028,
+    "name": "InsanitY",
+    "author": "Serponge",
+    "creators": [],
+    "verifier": "-",
+    "verification": "https://youtu.be/deBCXUECQQwc",
+    "percentToQualify": "50",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Ankyn",
+            "link": "https:/www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "gotsmile",
+            "link": "https:/www.youtube/watch?v=MgJeijBGKHU",
+            "percent": 67,
+            "hz": 120
+        }
+    ]
+}
