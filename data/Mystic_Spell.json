@@ -1,0 +1,18 @@
+{
+    "id": 33618850,
+    "name": "Mystic Spell",
+    "author": "Darwin",
+    "creators": [],
+    "verifier": "Darwin",
+    "verification": "https://www.youtube.com/watch?v=asMjBbjKV-E",
+    "percentToQualify": "72",
+    "password": "004250",
+    "records": [
+{
+            "user": "gotsmile",
+            "link": "https:/www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
