@@ -1,0 +1,18 @@
+{
+    "id": 36966088,
+    "name": "Shrill Hallway",
+    "author": "Nico99",
+    "creators": [],
+    "verifier": "Nico99",
+    "verification": "https://youtu.be/PxvwfKS6QAQ",
+    "percentToQualify": "56",
+    "password": "201099",
+    "records": [
+        {
+            "user": "gotsmile",
+            "link": "https:/www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
