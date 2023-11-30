@@ -1,0 +1,18 @@
+{
+    "id": 34085027,
+    "name": "B",
+    "author": "motleyorc",
+    "creators": ["motleyorc", "ScorchVx"],
+    "verifier": "-",
+    "verification": "https:/www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": 68,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Ankyn",
+            "link": "https:/www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
