@@ -1,0 +1,23 @@
+{
+    "id": 27786218,
+    "name": "Mechanical Shodown",
+    "author": "Tongii",
+    "creators": [],
+    "verifier": "Tongii",
+    "verification": "https:/www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": "59",
+    "password": "111111",
+    "records": [    
+        {
+            "user": "gotsmile",
+            "link": "https://youtu.be/rdJhOynhboI?si=RO20l3UsrrY4gscq",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Ankyn",
+            "link": "https:/www.youtube/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
