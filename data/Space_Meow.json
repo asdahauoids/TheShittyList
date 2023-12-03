@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "Space Meow",
+    "author": "f3lixsram",
+    "creators": ["Samoht", "NoWeek", "f3lixram", "Thomartin", "Erdyuri", "Darwin", "Sharks", "BloodStorm", "Zwenty", "Nottus", "frixy", "BadBox"],
+    "verifier": "f3lixsram",
+    "verification": "https://youtu.be/aja7v98qxh0?si=WWz_pWB4wpkYNu5t",
+    "percentToQualify": 56,
+    "password": "697744",
+    "records": [
+        {
+            "user": "gotsmile",
+            "link": "https:/www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+} 
