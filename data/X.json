@@ -1,0 +1,24 @@
+{
+    "id": 17235008,
+    "name": "X",
+    "author": "TriaXis",
+    "creators": ["TriaXis", "TamaN"],
+    "verifier": "TriaXis",
+    "verification": "https://www.youtube.com/watch?v=JpMiHzgXh_k",
+    "percentToQualify": 100,
+    "password": "1905",
+    "records": [
+        {
+            "user": "gotsmile",
+            "link": "https:/www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Ankyn",
+            "link": "https:/www.youtube/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
