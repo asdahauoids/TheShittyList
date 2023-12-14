@@ -1,0 +1,24 @@
+{
+    "id": 61357205,
+    "name": "deep",
+    "author": "buoGrOsSo777",
+    "creators": [],
+    "verifier": "buoGrOsSo777",
+    "verification": "https://youtu.be/3E3qO0FPToU",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+             "user": "gotsmile",
+            "link": "https:/www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Ankyn",
+            "link": "https:/www.youtube/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
