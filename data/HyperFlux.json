@@ -1,0 +1,18 @@
+{
+    "id": 33737577,
+    "name": "HyperFlux",
+    "author": "Lemons",
+    "creators": [],
+    "verifier": "Lemons",
+    "verification": "https://youtu.be/Q4m9RA8EYsU
+    "percentToQualify": "100",
+    "password": "040400",
+    "records": [
+        {
+            "user": "gotsmile",
+            "link": "https:/www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
