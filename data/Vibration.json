@@ -1,0 +1,18 @@
+{
+    "id": 27728679,
+    "name": "Vibration",
+    "author": "schady",
+    "creators": ["schady", "Fury0313", "FerdeFunky", "Nyucat"],
+    "verifier": "Verifier",
+    "verification": "https://youtu.be/sw3ObpR8CV4",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Ankyn",
+            "link": "https:/www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
