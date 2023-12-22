@@ -1,0 +1,18 @@
+{
+    "id": 34616261,
+    "name": "Spacial Rend",
+    "author": "Shadecat",
+    "creators": [],
+    "verifier": "Shadecat",
+    "verification": "https://youtu.be/CWM2H470Krk",
+    "percentToQualify": "100",
+    "password": "444444",
+    "records": [   
+        {
+            "user": "Ankyn",
+            "link": "https:/www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
