@@ -1,0 +1,24 @@
+{
+    "id": 5098465,
+    "name": "Speed of Light",
+    "author": "TheRealSalad",
+    "creators": [],
+    "verifier": "-",
+    "verification": "https://youtu.be/WZZQpPw0uDs",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+     {
+            "user": "gotsmile",
+            "link": "https:/www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Ankyn",
+            "link": "https:/www.youtube/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
