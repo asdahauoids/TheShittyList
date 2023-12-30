@@ -1,0 +1,18 @@
+{
+    "id": 56587109,
+    "name": "phjork",
+    "author": "cerufiffy",
+    "creators": [],
+    "verifier": "cerufiffy",
+    "verification": "https://youtu.be/3yFbzKCvvDc?feature=shared",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+    {
+            "user": "Ankyn",
+            "link": "https:/www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
