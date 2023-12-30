@@ -1,0 +1,18 @@
+{
+    "id": 56210242,
+    "name": "Shiver",
+    "author": "SpKale",
+    "creators": [],
+    "verifier": "SpKale",
+    "verification": "https://youtu.be/3p2FhfGMwzA",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+             "user": "Ankyn",
+            "link": "https:/www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
