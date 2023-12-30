@@ -3,10 +3,22 @@
     "name": "Theory Of Everything 2",
     "author": "RobTop",
     "creators": [],
-    "verifier": "Solo_Creator",
+    "verifier": "ㅤ",
     "verification": "https://youtu.be/PxmOMRslYTc",
     "percentToQualify": "100",
     "password": "Not Copyable",
     "records": [
+     {
+            "user": "gotsmile",
+            "link": "https://youtu.be/T5YN0N0nV_0?feature=shared",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Ankyn",
+            "link": "https:/www.youtube/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
