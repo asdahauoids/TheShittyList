@@ -57,16 +57,6 @@ export async function fetchLeaderboard() {
             return;
         }
 
-        // Verification
-        const verifier = Object.keys(scoreMap).find(
-            (u) => u.toLowerCase() === level.verifier.toLowerCase(),
-        ) || level.verifier;
-        scoreMap[verifier] ??= {
-            verified: [],
-            completed: [],
-            progressed: [],
-        };
-
         // Records
         level.records.forEach((record) => {
             const user = Object.keys(scoreMap).find(
