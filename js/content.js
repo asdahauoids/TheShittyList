@@ -65,7 +65,7 @@ export async function fetchLeaderboard() {
             verified: [],
             completed: [],
             progressed: [],
-        });
+        };
 
         // Records
         level.records.forEach((record) => {
