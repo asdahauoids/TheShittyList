@@ -1,0 +1,18 @@
+{
+    "id": 32688321,
+    "name": "Incipient",
+    "author": "Jenkins",
+    "creators": [],
+    "verifier": "Jenkins",
+    "verification": "https://youtu.be/5_giFbju4eQ",
+    "percentToQualify": 59,
+    "password": "420420",
+    "records": [
+        {
+            "user": "gotsmile",
+            "link": "https://www.youtube.com/watch?v=Tj60Vzq1unE&ab_channel=gotsmile",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+} 
