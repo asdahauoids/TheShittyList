@@ -8,11 +8,5 @@
     "percentToQualify": 41,
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "Ankyn",
-            "link": "https:/www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
