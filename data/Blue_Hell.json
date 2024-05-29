@@ -8,17 +8,5 @@
     "percentToQualify": "100",
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "gotsmile",
-            "link": "https:/www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "Ankyn",
-            "link": "https:/www.youtube/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
