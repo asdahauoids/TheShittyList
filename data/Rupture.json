@@ -5,7 +5,7 @@
     "creators": [],
     "verifier": "ㅤ",
     "verification": "https://youtu.be/SiQTiWXSPjU",
-    "percentToQualify": "66",
+    "percentToQualify": "74",
     "password": "3311",
     "records": [
         {
@@ -13,18 +13,6 @@
             "link": "https://www.youtube.com/watch?v=5KZi8ZnFxY0&ab_channel=Ankyn",
             "percent": 100,
             "hz": 360
-        },
-        {
-            "user": "gotsmile",
-            "link": "https:/www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 66,
-            "hz": 360
-        },
-        {
-            "user": "VoVocado",
-            "link": "https:/www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 66,
-            "hz": 144
         }
     ]
 } 
